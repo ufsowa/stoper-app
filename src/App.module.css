@@ -1,0 +1,11 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 200px auto;
+}
+
+.controls {
+    margin-top: 50px;
+}
